@@ -17,6 +17,6 @@ variable "environment" {
 variable "vpc_tags" {
     type = map
     default = {
-        project= "roboshop-project"
+        project = "roboshop-project"
 }
 }
